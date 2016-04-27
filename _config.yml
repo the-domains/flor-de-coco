@@ -1,0 +1,28 @@
+name: FLOR DE COCO
+favicon: null
+layout_spectrum: 0.6134372421074659
+typography_spectrum: 0.42521404870785773
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5503023900091648
+  lightness: 0.8992049763910472
+  saturation: 0.7353125493973494
+  rhythmicContrast: 0.8107026312500238
+purpose: []
